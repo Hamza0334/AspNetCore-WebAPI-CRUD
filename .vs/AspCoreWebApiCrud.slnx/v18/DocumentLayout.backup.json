@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|c:\\users\\user\\onedrive\\desktop\\dotnet\\complete api project\\aspcorewebapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|solutionrelative:controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|c:\\users\\user\\onedrive\\desktop\\dotnet\\complete api project\\aspcorewebapicrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|c:\\users\\user\\onedrive\\desktop\\dotnet\\complete api project\\aspcorewebapicrud\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|c:\\users\\user\\onedrive\\desktop\\dotnet\\complete api project\\aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|c:\\users\\user\\onedrive\\desktop\\dotnet\\complete api project\\aspcorewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|c:\\users\\user\\onedrive\\desktop\\dotnet\\complete api project\\aspcorewebapicrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|c:\\users\\user\\onedrive\\desktop\\dotnet\\complete api project\\aspcorewebapicrud\\aspcorewebapicrud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|solutionrelative:aspcorewebapicrud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|c:\\users\\user\\onedrive\\desktop\\dotnet\\complete api project\\aspcorewebapicrud\\aspcorewebapicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA58EBA6-01B8-828E-C68D-4A639E312CC8}|AspCoreWebApiCrud.csproj|solutionrelative:aspcorewebapicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:00:13.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:59:55.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T08:54:51.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:14:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T08:13:47.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AspCoreWebApiCrud",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\AspCoreWebApiCrud.csproj",
+              "RelativeDocumentMoniker": "AspCoreWebApiCrud.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\AspCoreWebApiCrud.csproj",
+              "RelativeToolTip": "AspCoreWebApiCrud.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T08:13:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentApiController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Controllers\\StudentApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentApiController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\Controllers\\StudentApiController.cs",
+              "RelativeToolTip": "Controllers\\StudentApiController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:12:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AspCoreWebApiCrud.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\AspCoreWebApiCrud.csproj",
+              "RelativeDocumentMoniker": "AspCoreWebApiCrud.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet\\Complete Api Project\\AspCoreWebApiCrud\\AspCoreWebApiCrud.csproj",
+              "RelativeToolTip": "AspCoreWebApiCrud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T08:13:05.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
